@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/NawapornIntro/static/css/main.2f4f306b.chunk.css",
+    "main.js": "/NawapornIntro/static/js/main.7680a308.chunk.js",
+    "main.js.map": "/NawapornIntro/static/js/main.7680a308.chunk.js.map",
+    "runtime-main.js": "/NawapornIntro/static/js/runtime-main.7b50b0bf.js",
+    "runtime-main.js.map": "/NawapornIntro/static/js/runtime-main.7b50b0bf.js.map",
+    "static/css/2.590b624c.chunk.css": "/NawapornIntro/static/css/2.590b624c.chunk.css",
+    "static/js/2.cc02ccf6.chunk.js": "/NawapornIntro/static/js/2.cc02ccf6.chunk.js",
+    "static/js/2.cc02ccf6.chunk.js.map": "/NawapornIntro/static/js/2.cc02ccf6.chunk.js.map",
+    "static/js/3.ec70ed3b.chunk.js": "/NawapornIntro/static/js/3.ec70ed3b.chunk.js",
+    "static/js/3.ec70ed3b.chunk.js.map": "/NawapornIntro/static/js/3.ec70ed3b.chunk.js.map",
+    "index.html": "/NawapornIntro/index.html",
+    "static/css/2.590b624c.chunk.css.map": "/NawapornIntro/static/css/2.590b624c.chunk.css.map",
+    "static/css/main.2f4f306b.chunk.css.map": "/NawapornIntro/static/css/main.2f4f306b.chunk.css.map",
+    "static/js/2.cc02ccf6.chunk.js.LICENSE.txt": "/NawapornIntro/static/js/2.cc02ccf6.chunk.js.LICENSE.txt",
+    "static/media/Hello04.dbb6f89f.jpg": "/NawapornIntro/static/media/Hello04.dbb6f89f.jpg",
+    "static/media/Pencil.7d7824c6.jpg": "/NawapornIntro/static/media/Pencil.7d7824c6.jpg",
+    "static/media/laptop1.78462e1e.jpg": "/NawapornIntro/static/media/laptop1.78462e1e.jpg",
+    "static/media/learn.57928410.jfif": "/NawapornIntro/static/media/learn.57928410.jfif",
+    "static/media/logo.dcf6b1e2.jpg": "/NawapornIntro/static/media/logo.dcf6b1e2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b50b0bf.js",
+    "static/css/2.590b624c.chunk.css",
+    "static/js/2.cc02ccf6.chunk.js",
+    "static/css/main.2f4f306b.chunk.css",
+    "static/js/main.7680a308.chunk.js"
+  ]
+}
